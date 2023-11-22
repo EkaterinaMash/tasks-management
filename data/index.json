@@ -1,0 +1,25 @@
+{
+    "title": "Tasks list",
+    "tasks": [
+        {
+            "title": "Start a new project",
+            "text": "Set up a new React project using a build tool like Create React App. Create the project structure, configure dependencies and establish a development environment.",
+            "isCompleted": false
+        },
+        {
+            "title": "Component Design and Structure",
+            "text": "Plan and create the main components of the application, outlining their structure and relationships.",
+            "isCompleted": false
+        },
+        {
+            "title": "State Management Integration",
+            "text": " Implement a state management solution, such as Redux or the Context API, to handle the application's global state. Define and manage the data flow to ensure efficient communication between components.",
+            "isCompleted": true
+        },
+        {
+            "title": "Styling and Responsiveness",
+            "text": "Apply styles to the components using SCSS. Ensure that the application is responsive, providing a consistent user experience across different devices and screen sizes.",
+            "isCompleted": false
+        }
+    ]
+}
